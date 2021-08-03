@@ -40,6 +40,9 @@ ul, ol {
     list-style: none;
 }
 
+/* ---------- NAVBAR ---------- */
+
+
 /* ---------- ABOUT ---------- */
 
 #about {
@@ -272,4 +275,25 @@ ul, ol {
     text-align: center;
 }
 
-/* ---------- CONTACT ---------- */
+/* ---------- FOOTER ---------- */
+footer {
+    background: #333;
+    padding: 20px 0 40px;
+}
+.chevron-up {
+    height: 35px;
+}
+footer i {
+    font-size: 25px;
+    margin: 20px;
+    color: #d82c2e;
+}
+footer i:hover {
+    font-size: 27px;
+}
+footer h5 {
+    font-size: 14px;
+    color: white;
+    font-weight: normal;
+    margin-top: 10px;
+}
